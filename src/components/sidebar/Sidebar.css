@@ -1,0 +1,21 @@
+.switches {
+    padding-left: 100px;
+    text-align: center;
+}
+.row {
+    align-items: flex-start;
+    
+}
+.li_crypto {
+    display: flex;
+    
+}
+.switch_crypto {
+    margin-top: 11px;
+    margin-left: 4px;
+}
+
+.switch_weather {
+    margin-top: 11px;
+    margin-left: 4px;
+}

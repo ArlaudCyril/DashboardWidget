@@ -1,0 +1,39 @@
+:root {
+    --dark: #1e2329;
+    --light: #fafafa;
+    --success: #03a66d;
+    --danger: #cf304a;
+  }
+table {
+    width: 200px;
+    height: 200px;
+    border-collapse: collapse;
+    color: var(--light);
+    background-color:var(--dark);
+    
+}
+
+th{
+    border: 1px solid var(--light);
+    padding: 5px;
+    text-align: center;
+    font-size: 12px;
+}
+td {
+    border: 1px solid var(--light);
+    padding: 5px;
+    text-align: center;
+    font-size: 12px;
+}
+.logo_club {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+    
+}
+.team {
+    display: flex;
+    border: none;
+    border-bottom: 1px solid var(--light);
+}
